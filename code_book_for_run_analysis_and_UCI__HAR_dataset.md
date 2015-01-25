@@ -130,7 +130,7 @@ Included sensor signals
 
 Each variable is made up of 5 parts, those parts are defined below and allow for each label to be understood.
 
-**A.B.C.D.E**
+**A.B.C.D**
 --------
 
 **part A**
@@ -170,7 +170,7 @@ Each variable is made up of 5 parts, those parts are defined below and allow for
 
 Sensor signal labels
 ------------
-Labels based on the A.B.C.D.E key given above.
+Labels based on the A.B.C.D key given above.
 
 * time.domain.body.acceleration.mean.x
 * time.domain.body.acceleration.mean.y
